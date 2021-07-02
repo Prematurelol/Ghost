@@ -16,3 +16,7 @@ Pre - Dev
 # Website 
 
 Coming Soon
+
+# Discord 
+![Discord Banner 4](https://discordapp.com/api/guilds/860663807645843506/widget.png?style=banner4)
+
