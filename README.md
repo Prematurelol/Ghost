@@ -18,5 +18,5 @@ Pre - Dev
 Coming Soon
 
 # Discord 
-![Discord Banner 4](https://discordapp.com/api/guilds/86066380764584350/widget.png?style=banner4)
+![Discord Banner 4](https://discordapp.com/api/guilds/860663807645843506/widget.png?style=banner4)
 
