@@ -2,17 +2,17 @@
 The Official Ghost Discord Client
 
 
-#About Us
+# About Us
 We are a Team of Devs making a Ghost Discord Client.
 
 
-#Meet The Team
+# Meet The Team
 
 Pre - Dev
 
 .Lqac - Dev 
 
 
-#Website 
+# Website 
 
 Coming Soon
